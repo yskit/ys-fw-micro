@@ -1,0 +1,18 @@
+{
+  "name": "ys-fw-micro",
+  "version": "1.0.3",
+  "description": "ys-mutify framework for micro base on net.socket",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=dev node test/index.js -- --access=dev",
+    "client": "node test/client.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:yskit/ys-fw-micro.git"
+  },
+  "dependencies": {
+    "ys-loader": "^1.0.1",
+    "ys-micro": "^1.0.2"
+  }
+}
