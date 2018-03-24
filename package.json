@@ -1,6 +1,6 @@
 {
   "name": "ys-fw-micro",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "ys-mutify framework for micro base on net.socket",
   "main": "index.js",
   "scripts": {
