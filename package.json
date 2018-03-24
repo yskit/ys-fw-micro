@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "ys-loader": "^1.0.1",
-    "ys-micro": "^1.0.2"
+    "ys-micro": "^1.0.2",
+    "ys-utils": "^1.0.14"
   }
 }
